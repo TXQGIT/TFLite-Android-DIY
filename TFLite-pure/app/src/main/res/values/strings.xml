@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TFLite-pure</string>
+    <string name="edit_message">Enter a image</string>
+    <string name="botton_send">Run</string>
+</resources>
